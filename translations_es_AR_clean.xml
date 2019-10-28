@@ -1,0 +1,502 @@
+<?xml version="1.0"?>			
+<spanish>			
+ <menuTabText value="Menú Principal" type="std::string" />
+ <batchTabText value="Medición en Grupos" type="std::string" />
+ <batchStartButtonText value="Inicie un Nuevo Grupo " type="std::string" />
+ <batchStopButtonText value="Finalización de Grupo" type="std::string" />
+ <batchContinueButtonText value="Continúe con el Grupo" type="std::string" />
+ <removeMeasurementButtonText value="Elimine" type="std::string" />
+ <customerIDText value="ID del Grupo" type="std::string" />
+ <askForBatchIDInfoLabel value="Ingrese el ID del Grupo:" type="std::string" />
+ <batchCustomerText value="ID del Grupo " type="std::string" />
+ <batchDesiText value="Peso volumétrico" type="std::string" />
+ <batchWeightText value="Peso" type="std::string" />
+ <batchTimeText value="Hora" type="std::string" />
+ <batchDateText value="Fecha" type="std::string" />
+ <batchSummationText value="Total" type="std::string" />
+ <batchNotStartedErrorText value="La identificación del grupo no fue realizada. Inicie o continúe un grupo" type="std::string" />
+ <selectOldBatchInformationText value="Seleccione un lote de los  anteriores:" type="std::string" />
+ <batchFileNotSavedError value="El archivo no se pudo guardar en la ruta seleccionada" type="std::string" />
+ <batchFileSavedInfo value="Archivo guardado en la ruta remota" type="std::string" />
+ <selectRemotePathButtonText value="Guarde el archivo de grupo como…." type="std::string" />
+ <askUserForDeleteVerify value="¿Está seguro de eliminar la medición?" type="std::string" />
+ <groupResultsTableLabel value="Tabla de grupo" type="std::string" />
+ <measureButtonText value="Medida " type="std::string" />
+ <resetButtonText value="Reset" type="std::string" />
+ <statusLabelText value="Estado" type="std::string" />
+ <barcodePrintOptionText value="Imprimir resultados" type="std::string" />
+ <domesticText value="Doméstico" type="std::string" />
+ <internationalText value="Internacional" type="std::string" />
+ <resultsLabelText value="Resultados" type="std::string" />
+ <widthResultLabelText value="Ancho:        " type="std::string" />
+ <lengthResultLabelText value="Largo:        " type="std::string" />
+ <heightResultLabelText value="Alto:        " type="std::string" />
+ <desiResultLabelText value="Peso Vol.:        " type="std::string" />
+ <weightResultLabelText value="Peso:        " type="std::string" />
+ <volumeResultLabelText value="Volumen real:" type="std::string" />
+ <measureTabText value="Medida" type="std::string" />
+ <cameraConnectionNotEstablishedErrorText value="Falló la conexión con la cámara" type="std::string" />
+ <captureImageFromIpCameraOptionText value="Capturar imagen de la cámara IP" type="std::string" />
+ <calibrationTabText value="Calibración " type="std::string" />
+ <scaleCalibrationButtonText value="Calibrar balanza" type="std::string" />
+ <showLiveWeightButtonText value="Mostrar el peso en tiempo real" type="std::string" />
+ <startButtonText value="Comenzar" type="std::string" />
+ <stopButtonText value="Detener" type="std::string" />
+ <calibrationButtonText value="Calibrar" type="std::string" />
+ <calibrationLabelText value="Calibración " type="std::string" />
+ <groundHeightLabelText value="Piso" type="std::string" />
+ <onlyCubicalObjectsText value="Solo objetos cúbicos" type="std::string" />
+ <removeConstantObjectText value="Retire los objetos constantes" type="std::string" />
+ <saveCalibrationText value="Guarde la calibración " type="std::string" />
+ <measurementFieldSelectionText value="Área de medición " type="std::string" />
+ <automaticMeasurementText value="Auto Medición " type="std::string" />
+ <integrationTimeText value="Tiempo Int." type="std::string" />
+ <autoMeasurementText value="Medición automática" type="std::string" />
+ <calibrationStep0Text value="Primero; inicie el sensor si no está funcionando" type="std::string" />
+ <calibrationStep1Text value="Compruebe que los sensores están funcionando, inicie estos si no lo están" type="std::string" />
+ <calibrationStep2Text value="Ajuste manualmente el nivel del piso si es necesario" type="std::string" />
+ <calibrationStep3Text value="Seleccione la velocidad de la cinta transportadora" type="std::string" />
+ <calibrationStep4Text value="Compruebe los nuevos ajustes y guarde la calibración si los resultados fueron satisfactorios" type="std::string" />
+ <calibrationStep1TitleText value="Paso 1" type="std::string" />
+ <calibrationStep2TitleText value="Paso 2" type="std::string" />
+ <calibrationStep3TitleText value="Paso 3" type="std::string" />
+ <calibrationStep4TitleText value="Paso 4" type="std::string" />
+ <calibrationNextStepText value="Próximo paso" type="std::string" />
+ <calibrationPreviousStepText value="Paso previo" type="std::string" />
+ <noDevicesFound value="No se encuentra el equipo en la red" type="std::string" />
+ <couldNotConnectToRemoteDevice value="La conexión remota no se puede establecer. Por favor reintente" type="std::string" />
+ <enterCalibrationWeightText value="Por favor especifique el peso de calibración en gramos:" type="std::string" />
+ <calibrationErrorOccurredText value="Error de calibración" type="std::string" />
+ <networkSettingsText value="Configuración de red" type="std::string" />
+ <WRTCameraText value="Dispositivo W.r.t." type="std::string" />
+ <WRTGroundText value="Piso W.r.t" type="std::string" />
+ <ethernetSettingsText value="Configuración Ethernet" type="std::string" />
+ <staticText value="Estática" type="std::string" />
+ <dynamicText value="Dinámica" type="std::string" />
+ <applyButtonText value="Aplicar" type="std::string" />
+ <wifiSettingsText value="Configuración Wi-Fi" type="std::string" />
+ <scanButtonText value="Escanear" type="std::string" />
+ <connectButtonText value="Conectar" type="std::string" />
+ <disconnectButtonText value="Desconectar" type="std::string" />
+ <pleaseWaitMessage value="Por favor aguarde " type="std::string" />
+ <noWifiInterfaceText value="No hay interfaz de Wi-Fi!" type="std::string" />
+ <settingsTabText value="Configuración" type="std::string" />
+ <settingsTabTitleText value="Configuración" type="std::string" />
+ <doNotSendSameObjectResultsMultipleTimesLabelText value="No mida nuevamente hasta que el objeto haya sido removido" type="std::string" />
+ <checkIfObjectIsCompletelyInFoMLabelText value="Verifique que el objeto está ubicado totalmente en el área de medición" type="std::string" />
+ <doNotMeasureWithoutScaleLabelText value="No mida si la báscula no está conectada " type="std::string" />
+ <doNotMeasureWithoutBarcodeLabelText value="No mida sin código de barras" type="std::string" />
+ <applyStabilityCheckOnScaleLabelText value="Aguarde que el objeto esté estable" type="std::string" />
+ <doNotLetMultipleObjectsLabelText value="No permita múltiples objetos" type="std::string" />
+ <resetResultsWhenObjectRemovedLabelText value="Borre los resultados cuando retire el objeto" type="std::string" />
+ <triggerWithNewWeightDataText value="Báscula" type="std::string" />
+ <forceObjectDimensionLimitsLabelText value="Habilitar control de límites de dimensiones del objeto" type="std::string" />
+ <measureRealVolume value="Calcular el volumen real 3D" type="std::string" />
+ <singularTriggerText value="Manual" type="std::string" />
+ <nonStopSingularTriggerText value="Automático" type="std::string" />
+ <dynamicTriggerText value="Dinámico" type="std::string" />
+ <barcodeScannerTriggerText value="Lector de código de barras " type="std::string" />
+ <triggerMethodText value="Método de disparo" type="std::string" />
+ <measurementUnitText value="Unidad de longitud" type="std::string" />
+ <measurementPrecisionText value="Precisión de la medición" type="std::string" />
+ <scaleUnitText value="Unidad de peso" type="std::string" />
+ <sendResultsToWebServerOptionText value="Enviar resultados al servidor Web" type="std::string" />
+ <labelText value="Tipo de etiqueta" type="std::string" />
+ <barcodeText value="Código de barras" type="std::string" />
+ <centimeterText value="Centímetro" type="std::string" />
+ <inchText value="Pulgada" type="std::string" />
+ <scalePortLabelText value="Puerto de la báscula" type="std::string" />
+ <scaleBaudRateLabelText value="Tasa en Baudios de la báscula" type="std::string" />
+ <maximumDimensionLabelText value="Ancho y largo máximo" type="std::string" />
+ <minimumDimensionLabelText value="Ancho y largo mínimo" type="std::string" />
+ <scaleStabilityCheckDurationMiliSecondsLabelText value="Duración de la estabilidad de la báscula (ms)" type="std::string" />
+ <maximumHeightLabelText value="Peso máximo" type="std::string" />
+ <minimumHeightLabelText value="Peso mínimo" type="std::string" />
+ <autoAdjustMinHeightLabelText value="Ajuste automático de altura mínima" type="std::string" />
+ <numberOfMeasurementsToAverageText value="# de mediciones para promediar" type="std::string" />
+ <dimWeightDomesticDividerLabelText value="Dom Divisor de Peso dimensional" type="std::string" />
+ <dimWeightInternationalDividerLabelText value="Int Divisor de Peso dimensional" type="std::string" />
+ <deviceIDLabelText value="ID de entidad" type="std::string" />
+ <printerXAxisMarginLabel value="Margen axial X" type="std::string" />
+ <printerYAxisMarginLabel value="Margen axial Y" type="std::string" />
+ <fontSizeLabel value="Tamaño de la fuente " type="std::string" />
+ <branchIDLabelText value="ID de la sucursal" type="std::string" />
+ <barcodePrinterNameLabelText value="Impresora Puerto/Nombre" type="std::string" />
+ <barcodePrintNumberLabelText value="# Cantidad de copias" type="std::string" />
+ <settingsSaveButtonText value="Guardar" type="std::string" />
+ <changePasswordButtonText value="Cambiar la contraseña" type="std::string" />
+ <changePasswordCurrentPasswordDialogText value="Por favor ingrese la contraseña actual:" type="std::string" />
+ <changePasswordNewPasswordDialogText value="Por favor ingrese la nueva contraseña:" type="std::string" />
+ <changePasswordAgainNewPasswordDialogText value="Por favor ingrese la nueva contraseña nuevamente:" type="std::string" />
+ <changePasswordPasswordsDoNotMatchDialogText value="Las contraseñas no coinciden. Por favor ingrese una nueva contraseña:" type="std::string" />
+ <checkForUpdatesButtonText value="Buscar actualizaciones..." type="std::string" />
+ <yesText value="Si" type="std::string" />
+ <noText value="No" type="std::string" />
+ <noUpdateAvailableText value="La versión actual está actualizada." type="std::string" />
+ <couldNotConnectToUpdateServerText value="Conexión fallida  con el servidor de actualizaciones! Por favor intente nuevamente." type="std::string" />
+ <updateAvailableText value="Se encontró una nueva versión.  ¿Quiere descargarla?" type="std::string" />
+ <updateSuccessfulText value="Actualización finalizada. Debe reiniciar el equipo. ¿Quiere reiniciarlo ahora?" type="std::string" />
+ <updateFailedText value="Actualización fallida, por favor trate nuevamente más tarde" type="std::string" />
+ <measurementSettingsText value="Parámetros de la medición" type="std::string" />
+ <scaleSettingsText value="Parámetros de la báscula " type="std::string" />
+ <systemSettingsText value="Ajustes del sistema" type="std::string" />
+ <keepMeasurementRecordsOptionText value="Mantener los registros de medición" type="std::string" />
+ <downloadRecordsButtonText value="Guardar registros en el puerto USB..." type="std::string" />
+ <selectDriveInformationText value="Seleccione un disco:" type="std::string" />
+ <recordSaveSuccessfulText value="Los registros se guardaron." type="std::string" />
+ <recordSaveFailedText value="Los registros no pudieron ser guardados!" type="std::string" />
+ <saveRecordsToRemoteAddressButtonText value="Guardar los registros en una dirección de la red..." type="std::string" />
+ <triggerOnlyWithBarcodeScannerText value="Iniciar solo con Scanner" type="std::string" />
+ <singularWithBarcodeReadingTriggerText value="Manual&amp;Lectura de código de barras" type="std::string" />
+ <singularAndBarcodeScannerTriggerText value="Manual&amp;Scanner de código de barras" type="std::string" />
+ <volumizerVersionText value="Versión del  equipo de volumetría:" type="std::string" />
+ <beeVisionSNText value="BeeVision N/S" type="std::string" />
+ <dateTimeChangeSuccessfulText value="Cambios realizados con éxito" type="std::string" />
+ <dateTimeChangeFailedText value="No se pudieron guardar los cambios " type="std::string" />
+ <askUserForAdminPasswordDialogInfo value="Usted necesita ser administrador para acceder a esta página. Ingrese la contraseña de Administrador:" type="std::string" />
+ <askForPasswordWrongPasswordLabel value="Contraseña errónea, por favor intente nuevamente:" type="std::string" />
+ <askForWifiPasswordInfoLabel value="Ingrese la contraseña del Wi-Fi" type="std::string" />
+ <dateComparisonErrorText value="La fecha de origen debe ser menor a la fecha de destino!" type="std::string" />
+ <imageNotFoundText value="La imagen no se encontró o estaba dañada!" type="std::string" />
+ <askForWifiPasswordWrongPasswordInfoLabel value="La conexión de Wi-fi no se pudo establecer. Intente nuevamente." type="std::string" />
+ <wifiConnectedString value=" red activa " type="std::string" />
+ <wifiNotConnectedString value="No está conectado a ninguna red" type="std::string" />
+ <ethernetConnectedString value=" conectado" type="std::string" />
+ <ethernetNotConnectedString value="No conectado" type="std::string" />
+ <okText value="OK" type="std::string" />
+ <cancelText value="Cancelar" type="std::string" />
+ <applyText value="Aplicar" type="std::string" />
+ <objectAlreadyMeasuredErrorString value="-1; Este objeto ya fue medido" type="std::string" />
+ <measurementCancelledErrorString value="-2; Medición cancelada." type="std::string" />
+ <objectIsNotCompletelyInTheFoMErrorString value="-3; Objeto fuera del área de medición" type="std::string" />
+ <deviceIsNotOnErrorString value="-5; La cámara no está encendida, por favor encienda la misma." type="std::string" />
+ <groundMeasurementCancelledErrorString value="-6; Falló la calibración, intente nuevamente." type="std::string" />
+ <groundAndConstantObjectMeasurementCancelledErrorString value="-7; Falló la calibración, intente nuevamente." type="std::string" />
+ <scaleIsNotConnectedString value="-8; La báscula no está conectada, hágalo e intente nuevamente." type="std::string" />
+ <objectNotStableErrorString value="-9; El objeto no está estable" type="std::string" />
+ <multipleObjectsErrorString value="-10; Múltiples objetos en el área de medición." type="std::string" />
+ <objectDimensionsTooLarge value="-11; Dimensiones muy grandes" type="std::string" />
+ <objectDimensionsTooSmall value="-12;Dimensiones muy pequeñas" type="std::string" />
+ <couldNotConnectToCameraString value="No se puede conectar con la cámara" type="std::string" />
+ <successfulRemoteMeasurementString value="La medición fue exitosa" type="std::string" />
+ <retentionWarningString value="-25; No se puede sobre escribir la información por que no es lo suficientemente antigua. ¿Borrar TODOS los resultados previos de mediciones?" type="std::string" />
+ <calibrationOKText value="Calibración realizada " type="std::string" />
+ <calibrationCancelledText value="Calibración cancelada " type="std::string" />
+ <noObjectText value="No hay un objeto" type="std::string" />
+ <readyText value="Listo" type="std::string" />
+ <remoteSourceText value="Origen remoto" type="std::string" />
+ <addressText value="Dirección" type="std::string" />
+ <compressionText value="Compresión" type="std::string" />
+ <sourceTabText value="Origen" type="std::string" />
+ <multipleCameraFeatureText value="Múltiples cámaras" type="std::string" />
+ <detectDevicesButtonText value="Encontrar dispositivos" type="std::string" />
+ <calibrationFieldSelectionText value="Selección del campo de calibración" type="std::string" />
+ <masterCameraText value="Principal" type="std::string" ></masterCameraText>
+ <secondaryCameraText value="Secundario" type="std::string" />
+ <multipleCameraCalibrateButtonText value="Unir!" type="std::string" />
+ <saveMergeSettingsButtonText value="Guardar " type="std::string" />
+ <noCompressionText value="Nada" type="std::string" />
+ <lowCompressionText value="Bajo" type="std::string" />
+ <highCompressionText value="Alto" type="std::string" />
+ <systemInformationText value="Información del sistema" type="std::string" />
+ <rebootButtonText value="Reinicie el equipo" type="std::string" />
+ <askForReboot value="¿Está seguro de reiniciar el equipo?" type="std::string" />
+ <triggeringLabelText value="Iniciando" type="std::string" />
+ <dimWeightCalculationGroupLabelText value="Peso Volumétrico" type="std::string" />
+ <hideIntDomesticSelectionOptionText value="Ocultar la selección doméstico – Internacional" type="std::string" />
+ <regularityRatioLabelText value="Relación de regularidad" type="std::string" />
+ <webServiceShareProtocolLabelText value="Protocolo de datos" type="std::string" />
+ <webServerAddressLabelText value="Dirección del servidor Web::" type="std::string" />
+ <unsuccessfulSendAttemptsNumberLabelText value="Total de sucesos fallidos de envio:" type="std::string" />
+ <autoRetryUnsuccessfulSendAttemptsText value="Reintentar envios fallidos automáticamente de manera diaria" type="std::string" />
+ <setTimeForAutoRetryButtonText value="Establezca una hora para auto reenvío de intentos fallidos" type="std::string" />
+ <retryUnsuccessfulSendAttemptsButtonText value="Reintentar el envío de envios fallidos " type="std::string" />
+ <clearUnsuccessfulSendAttemptsButtonText value="Limpie el archivo de envíos fallidos " type="std::string" />
+ <manuallyRetryUnsuccessfulSendAttemptsButtonText value="Envíe las mediciones seleccionadas " type="std::string" />
+ <clearExistingDataButtonText value="Elimine los registros de mediciones..." type="std::string" />
+ <imagesDiskSizeLabelText value="espacio libre de un total de 5120MB" type="std::string" />
+ <recordsDiskSizeLabelText value="espacio libre de un total de 100MB" type="std::string" />
+ <imageQualityLabelText value="Calidad de la imagen" type="std::string" />
+ <approxImageSizeLabelText value="Tamaño aproximado de la imagen:" type="std::string" />
+ <changeSystemTimeButtonText value="Cambie la fecha y la hora " type="std::string" />
+ <scaleTriggerDelayLabelText value="Retraso en la medición de la báscula (s)" type="std::string" />
+ <handheldScannerIsBeforeText value="Use el lector de códigos antes de dimensionar" type="std::string" />
+ <handheldScannerIsAfterText value="Use el lector de códigos después de dimensionar" type="std::string" />
+ <doNotAcceptMultipleBarcodesText value="No acepta múltiples códigos de barra" type="std::string" />
+ <deviceManufacturerLabelText value="Fabricante:" type="std::string" />
+ <deviceModelLabelText value="Modelo:" type="std::string" />
+ <certificateNumberLabelText value="Certificado número:" type="std::string" />
+ <certificationStatusLabelText value="Estado del certificado:" type="std::string" />
+ <operatingTemperatureLabelText value="Temperatura de operación:" type="std::string" />
+ <accuracyDimensionText value="Precisión" type="std::string" />
+ <featuresTitleText value="Características" type="std::string" />
+ <dimensionLimitsTitleText value="Límites de medición" type="std::string" />
+ <manualParameterTitleText value="Parámetro manual" type="std::string" />
+ <measurementResultsTitleText value="Resultados de la medición" type="std::string" />
+ <decodeResultsTitleText value="Resultados de la decodificación" type="std::string" />
+ <webServiceTitleText value="Servício Web" type="std::string" />
+ <fileSharingTitleText value="Compartir archivo" type="std::string" />
+ <parameterChangeLogTitleText value="Log de cambio de parámetros" type="std::string" />
+ <systemLogTitleText value="Log del sistema " type="std::string" />
+ <openTerminalButtonText value="Abrir terminal" type="std::string" />
+ <scaleConnectionLabelText value="Conección de la báscula" type="std::string" />
+ <scaleComSettingsLabelText value="Configuración COM de la báscula:" type="std::string" />
+ <scaleTypeLabelText value="Tipo de báscula" type="std::string" ></scaleTypeLabelText>
+ <clearButtonText value="Limpiar" type="std::string" />
+ <closeButtonText value="Cerrar" type="std::string" />
+ <sendButtonText value="Enviar" type="std::string" />
+ <connectionIsNotEnabledText value=" conexión no habilitada!!" type="std::string" />
+ <scaleText value="Báscula" type="std::string" />
+ <scannerText value="Lector de códigos" type="std::string" />
+ <dataSenderText value="Remitente de datos" type="std::string" />
+ <scannerComSettingsLabelText value="Configuración COM de los lectores de códigos" type="std::string" />
+ <handheldScannerTitleText value="Lector del colector de datos portátil" type="std::string" />
+ <fixedMountScannerTitleText value="Lector de código de barras Fijo" type="std::string" />
+ <dataStorageTitleText value="Almacenado de datos de larga duración" type="std::string" />
+ <imageStorageTitleText value="Almacenamiento de imagen" type="std::string" />
+ <noUnsuccessfulAttemptsText value="No se ha registrado un envío fallido de intercambio de datos" type="std::string" />
+ <failedToSendRemoteServerText value="Falló el envío de datos de dimensionamiento al servidor remoto!" type="std::string" />
+ <sendRemoteServerSuccessText value="Todos los datos se enviaron correctamente!" type="std::string" />
+ <failedToSendRemoteServerWithIdText value="Falló el envío del dimensionamiento ID:" type="std::string" />
+ <notReadHeaderFromIpCameraText value="No se puede leer la resolución de la imagen desde el cabezal de respuesta" type="std::string" />
+ <notGetReplyFromIpCameraText value="No se puede obtener respuesta de la cámara " type="std::string" />
+ <postMeasurementInfoEntryEnabledText value="Entrada del parámetro post dimensionamiento" type="std::string" />
+ <onlyNumericalValueForPostInfoText value="Permite solo el ingreso de datos numéricos " type="std::string" />
+ <postMeasurementInfoLabelText value="Nombre del parámetro" type="std::string" />
+ <postMeasurementInfo2EntryEnabledText value="Entrada del segundo parámetro post dimensionamiento" type="std::string" />
+ <onlyNumericalValueForPostInfo2Text value="Permite solo el ingreso de datos numéricos para el segundo parámetro" type="std::string" />
+ <postMeasurementInfo2LabelText value="Nombre del segundo parámetro" type="std::string" />
+ <askForAdditionalInfoIntro value="Por favor ingrese" type="std::string" />
+ <additionalInfoNotEnteredText value=" no ingresado. Los resultados no fueron guardados!" type="std::string" />
+ <noMeasurementDetectedText value="El dimensionamiento no se pudo iniciar!. Reinicie el sistema y vuelva a cargar el último paquete!. ¿Desea reiniciar el sistema ahora?" type="std::string" />
+ <objectsStuckErrorText value="El objeto se trabó en la cinta de transporte. Proceda a liberarlo  y vuelva a cargarlo" type="std::string" />
+ <scaleCalibrationCompletedText value="La calibración de la báscula ha finalizado" type="std::string" />
+ <placeCalibrationWeightText value="Ponga el peso de calibración en la báscula/cinta de transporte y presione OK" type="std::string" />
+ <calibrationErrorOccurred value="Se produjo un error de calibración" type="std::string" />
+ <makeSureNoWeightText value="Asegúrese que no hay ningún peso en la báscula/Cinta de transporte y presione OK" type="std::string" />
+ <multipleBarcodeInformation value="Se detectaron múltiples códigos de barra " type="std::string" />
+ <earlyObjectText value="Objetos muy cercanos! Retire el objeto siguiente" type="std::string" />
+ <conveyorFreqWriteSuccessfulText value="El ajuste de frecuencia de la cinta de transporatadora fué exitoso" type="std::string" />
+ <conveyorFreqCouldNotBeSetText value="Falló la grabación de la frecuencia de la cinta de transporte" type="std::string" />
+ <noWeightInformation value="El peso del objeto no pudo ser registrado. Deteniendo la cinta transportadora." type="std::string" />
+ <noBarcodeInformation value="El código de barras  del objeto no pudo ser registrado. Deteniendo la cinta transportadora." type="std::string" />
+ <askForSlaveDelete value="¿Está seguro de eliminar el dispositivo?" type="std::string" />
+ <askForSlaveIP value="Entre la nueva IP del dispositivo:" type="std::string" />
+ <barcodeScannerSettingsText value="Configuración del lector de códigos de barras" type="std::string" />
+ <findScannersButtonText value="Detecta los lectores de códigos" type="std::string" />
+ <saveScannerSettingsButtonText value="Guardar" type="std::string" />
+ <selectScannerLabelText value="Seleccione el lector de códigos " type="std::string" />
+ <barcodeTypeLabelText value="Tipo de código de barras" type="std::string" />
+ <barcodeResultLabelText value="Lector de códigos de barras:" type="std::string" />
+ <scannerDelayLabelText value="Retraso en el disparo" type="std::string" />
+ <secondsText value="Segundos" type="std::string" />
+ <externalCamSettingsText value="Ajustes de la cámara" type="std::string" />
+ <startExternalCamStreamText value="Inicie la Transmisión" type="std::string" />
+ <stopExternalCamStreamText value="Detenga la transmisión" type="std::string" />
+ <externalCamSensorTemperatureLabel value="Sensor de temperatura" type="std::string" />
+ <externalCamAutoExposureText value="Auto exposición" type="std::string" />
+ <externalCamExposureText value="Exposición (us)" type="std::string" />
+ <externalCamBodyTemperatureLabel value="Temperatura del cuerpo" type="std::string" />
+ <printerSettingsText value="Ajustes de la impresora" type="std::string" />
+ <barcodePrefixText value="Prefijo de los códigos de barras" type="std::string" />
+ <barcodeSuffixText value="Sufijo de los códigos" type="std::string" />
+ <barcodeSeparatorText value="Separador de los datos de los códigos" type="std::string" />
+ <sqlConnectionFailedText value="Falló la conexión! . Por favor verifique los parámetros " type="std::string" />
+ <sqlConnectionSuccessfulText value="Conexión exitosa!" type="std::string" />
+ <sendResultsToSQLServerOptionText value="Enviar los resultados al servidor SQL" type="std::string" />
+ <sqlServerAddressLabel value="Dirección del servidor:" type="std::string" />
+ <sqlServerPortLabel value="Puerto del servidor:" type="std::string" />
+ <sqlServerDatabaseNameLabel value="Nombre de la base de datos:" type="std::string" />
+ <sqlServerUserNameLabel value="Nombre de usuario:" type="std::string" />
+ <sqlServerPasswordLabel value="Contraseña" type="std::string" />
+ <sqlServerTableNameLabel value="Nombre de la tabla" type="std::string" />
+ <checkSQLServerConnectionText value="Verifique la conexión " type="std::string" />
+ <ipCamSettingsText value="Ajustes de la impresora " type="std::string" />
+ <ipCamAddressText value="Dirección de la captura de imágenes" type="std::string" />
+ <ipCameraCaptureDelayText value="Tiempos de la captura de imágenes" type="std::string" />
+ <ipCameraCaptureTestText value="Captura de la imagen de prueba" type="std::string" />
+ <ipCamAddressEmptyText value="Por favor ingrese la dirección  IP de la cámara " type="std::string" />
+ <externalDevicesText value="Dispositivo externo" type="std::string" />
+ <ioSettingsText value="Ajustes IO" type="std::string" />
+ <decodeText value="Decodificador" type="std::string" />
+ <dimensionText value="Medida" type="std::string" />
+ <decoderSettingsText value="Tipo de ajuste del decodificador" type="std::string" />
+ <integrationText value="Integración" type="std::string" />
+ <measureAndDecodeOperationText value="Medida y decodificación" type="std::string" />
+ <softwareTriggerText value="Programa" type="std::string" />
+ <externalTriggerText value="Externo" type="std::string" />
+ <freeRunModeText value="Corrida libre" type="std::string" />
+ <externalTriggerTimeoutLabel value="Tiempo de espera de activación externa (ms)" type="std::string" />
+ <allBarcodesText value="Todos los tipos" type="std::string" />
+ <barcodeTriggerMethodLabel value="Activador" type="std::string" />
+ <externalTriggerStartLabel value="" type="std::string" />
+ <externalTriggerStopLabel value="Activador externo de detención" type="std::string" />
+ <barcodeDecoderBarcodeTypeLabel value="Tipo de código de barras  y longitud:" type="std::string" />
+ <selectBarcodeTypesText value="Seleccionar..." type="std::string" />
+ <barcodeDecoderBurstModeText value="Modo de ráfaga" type="std::string" />
+ <barcodeDecoderBurstFrameNumberLabel value="Número de fotograma del modo de ráfaga" type="std::string" />
+ <barcodeDecoderBurstModeImageCaptureFrameNumberLabel value="Guardar imágen del índice" type="std::string" />
+ <barcodeDecoderTimeoutLabel value="Terminó el tiempo de decodificación (mseg)" type="std::string" />
+ <operationModeLabel value="Operación" type="std::string" />
+ <numberOfExpectedBarcodesLabel value="Número de códigos de barras esperados" type="std::string" />
+ <reconnectToSQLServerWithEveryMessageLabel value="Vuelva a conectarse con el servidor con cada mensaje" type="std::string" />
+ <saveImagesToNetworkAddress value="Guarde las imágenes en la dirección de la red" type="std::string" />
+ <sqlConnectionTimeoutLabel value="El tiempo de conexión terminó (seg) " type="std::string" />
+ <noTriggerText value="No hay eventos" type="std::string" />
+ <triggerAtPositiveEdgeText value="Evento en el borde ascendente" type="std::string" />
+ <triggerAtNegativeEdgeText value="Evento en el borde descendente" type="std::string" />
+ <triggerAtBothEdgesText value="Evento en ambos bordes" type="std::string" />
+ <triggerAtLowText value="Evento cuando se encuentar en Bajo" type="std::string" />
+ <triggerAtHighText value="Evento cuando se encuentra en Alto" type="std::string" />
+ <noSettingText value="Sin Cambios" type="std::string" />
+ <highWhenSuccessful value="Alto cuando es satisfactorio" type="std::string" />
+ <lowWhenSuccessful value="Bajo cuando es satifactorio" type="std::string" />
+ <highWhenFailed value="Alto cuando NO es satisfactorio" type="std::string" />
+ <lowWhenFailed value="Bajo cuando se produce una Falla" type="std::string" />
+ <highState value="Alto" type="std::string" />
+ <lowState value="Bajo" type="std::string" />
+ <externalInputPolicyLabel value="Ingreso externo" type="std::string" />
+ <defaultOutputPortSettingLabel value="Configuración determinada del puerto de salida " type="std::string" />
+ <outputPortTimeoutLabel value="Tiempo de espera del puerto de salida" type="std::string" />
+ <outputPortPolicyLabel value="Configuración del puerto de salida" type="std::string" />
+ <barcodeDecoderEnableScalingText value="Habilitar la reducción de la escala" type="std::string" />
+ <barcodeDecoderDownScaleWidthText value="Reducir el ancho" type="std::string" />
+ <barcodeDecoderDownScaleHeightText value="Reducir el alto" type="std::string" />
+ <remotePathSearchPleaseWaitMessage value="Buscando una red, espere " type="std::string" />
+ <showOriginalSizeText value="Muestrar el tamaño original" type="std::string" />
+ <enableDecoding value="Comienzar la decodificación" type="std::string" />
+ <disableDecoding value="Detener la decodificación" type="std::string" />
+ <captureAndDecode value="Capturar y decodificar" type="std::string" />
+ <keepBarcodeRecordsText value="Guardar el registro de códigos de barra " type="std::string" />
+ <manualDimensioningInfoEntrySelection value="Habilitar la opción para ingresar los resultados manualmente " type="std::string" />
+ <manualDimensioningInfoEntry value="Ingresar resultados manualmente" type="std::string" />
+ <enterResultsManuallyText value="Entre los resultados manualmente" type="std::string" />
+ <saveMeasurementImagesText value="Guardar los datos de la medición internamente" type="std::string" />
+ <saveMeasurementImagesToUSBText value="Salve los datos en una unidad USB" type="std::string" />
+ <saveMeasurementImagesToNetworkDriveText value="Salve los datos en un archivo en línea" type="std::string" />
+ <enableSerialScannerText value="Recupere los códigos de barras de un puerto COM" type="std::string" />
+ <scannerPortLabelText value="Puerto COM de escaner" type="std::string" />
+ <scannerBaudRateLabelText value="Velocidad de transmisión en Baudios del scanner" type="std::string" />
+ <tcpSocketConnectionEndCharLabelText value="Caracter de final de datos" type="std::string" />
+ <scannerBarcodeEndCharsLabelText value="Caracter separador del código de barras" type="std::string" />
+ <checkWeigherApplicationEnabledText value="La báscula es una controladora de peso" type="std::string" />
+ <scaleTypeSelectionText value="Protocolo de la báscula:    " type="std::string" />
+ <checkWeigherIsPlacedBeforeDimensionerText value="" type="std::string" />
+ <checkWeigherIsPlacedAfterDimensionerText value="Control de peso colocado luego del dimensioando" type="std::string" />
+ <barcodeScannerIsPlacedAfterDimensionerText value="Scanner colocado luego del dimensionado" type="std::string" />
+ <barcodeScannerIsPlacedBeforeDimensionerText value="Scanner colocado luego del dimensionado" type="std::string" />
+ <measurementInProgressText value="Medición en progreso, por favor espere…" type="std::string" />
+ <encoderErrorText value="¡Ocurrió un error al capturar la velocidad de la cinta transportadora" type="std::string" />
+ <conveyorSettingsText value="Configuración de la cinta transportadora" type="std::string" />
+ <plcIPAddressText value="Tipo de PLC" type="std::string" />
+ <plcPortText value="Puerto del PLC" type="std::string" />
+ <encoderRegisterAddressText value="Dirección de registro del codificador" type="std::string" />
+ <speedText value="Velocidad" type="std::string" />
+ <encoderStepSizeText value="Paso de la cinta transportadora en milímetros" type="std::string" />
+ <enableUseEncoderText value="Use el codificador para medir la longitud" type="std::string" />
+ <plcConnectionTimeoutLabelText value="Tiempo de espera de conexión del PLC" type="std::string" />
+ <buzzerRegisterAddressLabelText value="Buzzer Register Address" type="std::string" />
+ <lightRegisterAddressLabelText value="Buzzer Register Address" type="std::string" />
+ <objectIsOnMeasurementConveyorLabelText value="Measurement Active Reg Addr." type="std::string" />
+ <conveyorStartStopAddressLabelText value="Tipo de dirección de comienzo y detención de la cinta transportadora" type="std::string" />
+ <stopConveyorWithNoBarcodeText value="Pare la cinta transportadora cuando no encuentre un código de barras" type="std::string" />
+ <stopConveyorWithNoWeightText value="Pare la cinta transportadora cuando no obtenga un registro de peso" type="std::string" />
+ <doNotIgnoreFlatObjectsText value="No ignore los objetos planos" type="std::string" />
+ <flatObjectDefaultWeightText value="Peso predeterminado del objeto plano" type="std::string" />
+ <conveyorStartRegisterAddressLabelText value="Dirección de registro de inicio de la cinta transportadora" type="std::string" />
+ <conveyorStartRegisterValueLabelText value="Valor de registro de inicio de la cinta transportadora" type="std::string" />
+ <scaleRegisterAddressLabelText value="Dirección de registro de la báscula" type="std::string" />
+ <conveyorNoLabelText value="Cinta transportadora n.º:" type="std::string" />
+ <conveyorDriverFrequencyText value="Frecuencia de avance de la cinta transportadora" type="std::string" />
+ <adjustConveyorSpeedsText value="Ajuste de la velocidad" type="std::string" />
+ <enableBarcodeSendRegardlessOfMeasurementResultsText value="Envíe los códigos de barras al servidor independientemente de la medición" type="std::string" />
+ <externalCamAdvancedSettingsButtonText value="Ajustes avanzados" type="std::string" />
+ <selectAllText value="Seleccione todos" type="std::string" />
+ <enableStrobeLightText value="Habilitar la luz" type="std::string" />
+ <flashLightPreoutputTimeText value="Light pre-output time (us)" type="std::string" />
+ <flashLightOutputPulseWidthText value="Light output pulse width (us)" type="std::string" />
+ <mergeCamerasText value="Mezclar cámaras" type="std::string" />
+ <triggerSettingsText value="Ajustes del disparador:" type="std::string" />
+ <noTriggerStopText value="No definido" type="std::string" />
+ <gainText value="Ganancia" type="std::string" />
+ <resolutionText value="Tipo de resolución" type="std::string" />
+ <barcodeMatchCriteriaLabelText value="Regex de busqueda para el código de barra" type="std::string" />
+ <enableBarcodeMatchCriteriaText value="Activar busqueda REGEX en el código de barras" type="std::string" />
+ <testBarcodeMatchCriteriaText value="Verifique manualmente los criterios de verificación" type="std::string" />
+ <numberOfNewBarcodesLabelText value="Permitir el mismo código de barras luego de # códiogs" type="std::string" />
+ <sameBarcodeTimeoutEnabledText value="Permitir el mismo código de barras luego de un tiempo predeterminado" type="std::string" />
+ <sameBarcodeTimeoutLabelText value="Timeout para código de barras repetido (ms)" type="std::string" />
+ <barcodeDecoderEnableLowContrastEnhancementText value="Activar mejora de bajo contraste del Scanner" type="std::string" />
+ <encoderRegisterMaxValueLabelText value="Conveyor Stop Register Addr." type="std::string" />
+ <conveyorStopRegisterAddressLabelText value="Conveyor Stop Register Addr." type="std::string" />
+ <conveyorStopRegisterValueLabelText value="Valor de detención de la cinta transportadora " type="std::string" />
+ <waitForDelayedImageText value="Esperar imagen de la red" type="std::string" />
+ <enableNetworkBarcodeListeningText value="Activar escuchar evento de código de barras de la red" type="std::string" />
+ <resetBarcodeQueueText value="Reiniciar cola de códigos de barras" type="std::string" />
+ <sendBarcodeResultsToTCPSocketText value="Enviar resultados a puerto TCP" type="std::string" />
+ <barcodeResultsTCPSocketPortLabelText value="Socket Port:" type="std::string" />
+ <barcodeResultsTCPSocketIPLabelText value="Socket Port:" type="std::string" />
+ <multiCamLabelText value="Network Role" type="std::string" />
+ <distributeTriggerEventsText value="Distribuir el evento de activación en la red." type="std::string" />
+ <masterCameraAddressLabelText value="Dirección de la cámara principal" type="std::string" />
+ <discoverOtherCamerasText value="Descubir automáticamente los dispositivos" type="std::string" />
+ <addNewSlaveText value="Agregar nuevo dispositivo." type="std::string" />
+ <removeDeviceFromListText value="Eliminar seleccionado" type="std::string" />
+ <setSelectedCameraLabelText value="Seleccionado como:" type="std::string" />
+ <sendImagesAsBase64WithMeasurementResultsText value="Enviar las imágenes codificadas como una cadena de caractéres base-64 dentro de los resultados" type="std::string" />
+ <sendBarcodeImagesAsBase64Text value="Enviar imágenes codificadas como base-64" type="std::string" />
+ <sendBarcodeImagesAsBase64SeparatelyText value="Enviar imágenes a un servidor web diferente" type="std::string" />
+ <barcodeWaitTimeoutLabelText value="Barcode Wait Timeout (sec)" type="std::string" />
+ <saveBarcodeImagesInternallyText value="Guarde las imágenes internamente" type="std::string" />
+ <sendBarcodeImagesToMasterText value="Envíe las imágenes al master" type="std::string" />
+ <shareMeasurementResultsWithRS232Text value="Comparta los resultados con el RS232" type="std::string" />
+ <shareMeasurementResultsWithRS232AutomaticallyText value="Comparta automáticamente" type="std::string" />
+ <shareBarcodeResultsWithRS232Text value="Comparta los resultados vía RS232" type="std::string" />
+ <sendResultsWithPTTSOAPText value="Envíe utilizando PTT-SOAP" type="std::string" />
+ <pttCenterNumberText value="Centro-PTT Nro:" type="std::string" />
+ <errorRateText value="Margen de error (%)" type="std::string" />
+ <noBarcodeInformationText value="No se detectó un tipo de lector de código de barras" type="std::string" />
+ <noWeightInformationText value="No se puede leer el peso" type="std::string" />
+ <getWeightFromWeighingDeviceText value="Obtenga el peso de la báscula" type="std::string" />
+ <measurementInterruptedText value="Medición interrumpida- Por favor vuelva a cargar el objeto" type="std::string" />
+ <askForImageDeleteText value="¿Está Usted seguro de borrar estas imágenes?" type="std::string" />
+ <imagesDeletedText value="Las imágenes se borraron satisfactoriamente" type="std::string" />
+ <imageDeleteFailedText value="Las imágenes no se pueden borrar" type="std::string" />
+ <askForDataDeleteText value="¿Está Usted seguro de borrar estos registros?" type="std::string" />
+ <askForClearUnsuccessfulSendAttemptsText value="¿Está Usted seguro de borrar los intentos de compartir fallidos?" type="std::string" />
+ <enterMeasurementIDsText value="Por favor ingrese el ID de la medición para enviarlo" type="std::string" />
+ <enterMeasurementIDErrorText value="Por favor ingrese la ID de la medición!" type="std::string" />
+ <measurementIDComparisonErrorText value="La ID de la primera medición debe ser más pequeño que el ID de la última" type="std::string" />
+ <dataDeletedText value="Los registros se borraron satisfactoriamente" type="std::string" />
+ <dataDeleteFailedText value="Los registros no pudieron ser eliminados!" type="std::string" />
+ <clearExistingImagesText value="Borrar imágenes existentes..." type="std::string" />
+ <lightCurtainsNotWorkingText value="La comunicación con los sensores falló!. Quiere reiniciar el sistema  y reintentarlo?" type="std::string" />
+ <measurementHistoryText value="Historial" type="std::string" />
+ <logsText value="Registros" type="std::string" />
+ <eventTypeText value="Tipo " type="std::string" />
+ <nameText value="Nombre" type="std::string" />
+ <newValueText value="Nuevo" type="std::string" />
+ <oldValueText value="Viejo" type="std::string" />
+ <numberText value="No " type="std::string" />
+ <messageText value="Mensaje " type="std::string" />
+ <tableMeasurementIDLabelText value="ID del mensaje:" type="std::string" />
+ <tableBarcodeIDLabelText value="Dec. ID:" type="std::string" />
+ <tableImageLabelText value="Imagen:" type="std::string" />
+ <nextLabelText value="Próximo" type="std::string" />
+ <previousLabelText value="Anterior" type="std::string" />
+ <connectedText value="Conectado" type="std::string" />
+ <disconnectedText value="Desconectado" type="std::string" />
+ <connectingText value="Conectando" type="std::string" />
+ <disconnectingText value="Desconectando" type="std::string" />
+ <fromDateLabelText value="Desde Fecha:" type="std::string" />
+ <toDateLabelText value="A fecha:" type="std::string" />
+ <fromIDLabelText value="Desde: ID" type="std::string" />
+ <toIDLabelText value="A ID:" type="std::string" />
+ <selectDatesOfMeasurementRecordsText value="Por favor elija la fecha para guardar los datos de la medición" type="std::string" />
+ <selectDatesOfMeasurementImagesText value="Por favor elija la fecha para guardar las imágenes de la medición" type="std::string" />
+ <unacceptableParameterNameText value="Inválido" type="std::string" />
+ <cannotCaptureIPCameraText value="No se puede capturar la imagen con la cámara IP" type="std::string" />
+ <barcodeTypeShortText value="B-Type" type="std::string" />
+ <barcodeSourceShortText value="B-Source" type="std::string" />
+ <maxFileSizeExceededErrorString value="-13;Se excede el tamaño del archivo de medición." type="std::string" />
+</spanish>			
